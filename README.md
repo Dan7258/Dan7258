@@ -18,9 +18,6 @@
 # 📊 GitHub Статистика:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan7258&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 LeetCode Статистика:
-![](https://leetcard.jacoblin.cool/Dan7258?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
-
 ### ✍️ Случайная цитата
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&locale=ru)
 

@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Статистика:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan7258&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan7258&layout=compact&theme=dark)
 
 ### ✍️ Случайная цитата
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&locale=ru)
